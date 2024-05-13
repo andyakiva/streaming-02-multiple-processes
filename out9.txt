@@ -1,0 +1,15 @@
+State,Year,Month,Period,Indicator,DataValue,PercentComplete,PercentPendingInvestigation,StateName,Footnote,FootnoteSymbol,PredictedValue
+AK,2015,April,12 month-ending,"Synthetic opioids, excl. methadone (T40.4)",,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data not shown due to low data quality.,**,
+AK,2015,April,12 month-ending,Heroin (T40.1),,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data not shown due to low data quality.,**,
+AK,2015,April,12 month-ending,Natural & semi-synthetic opioids (T40.2),,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data not shown due to low data quality.,**,
+AK,2015,April,12 month-ending,Number of Drug Overdose Deaths,126,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.,**,126
+AK,2015,April,12 month-ending,Cocaine (T40.5),,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data not shown due to low data quality.,**,
+AK,2015,April,12 month-ending,Methadone (T40.3),,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data suppressed (<10).  Data not shown due to low data quality.,**,
+AK,2015,April,12 month-ending,"Natural & semi-synthetic opioids, incl. methadone (T40.2, T40.3)",,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data not shown due to low data quality.,**,
+AK,2015,April,12 month-ending,"Opioids (T40.0-T40.4,T40.6)",,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data not shown due to low data quality.,**,
+AK,2015,April,12 month-ending,Percent with drugs specified,88.0952381,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.,**,
+AK,2015,April,12 month-ending,"Natural, semi-synthetic, & synthetic opioids, incl. methadone (T40.2-T40.4)",,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data not shown due to low data quality.,**,
+AK,2015,April,12 month-ending,Number of Deaths,"4,133",100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.,**,
+AK,2015,April,12 month-ending,Psychostimulants with abuse potential (T43.6),,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data not shown due to low data quality.,**,
+AK,2015,August,12 month-ending,Cocaine (T40.5),,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data suppressed (<10).  Data not shown due to low data quality.,**,
+AK,2015,August,12 month-ending,Methadone (T40.3),,100,0,Alaska,Numbers may differ from published reports using final data. See Technical Notes.  Data suppressed (<10).  Data not shown due to low data quality.,**,

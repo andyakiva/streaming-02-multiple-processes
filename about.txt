@@ -1,0 +1,24 @@
+
+======================================================================
+======================================================================
+ Welcome to the Python Debugging Information Utility ABOUT.PY
+ Date and Time: 2024-05-12 at 06:52 PM
+ Operating System: nt Windows 11
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: AMD64
+ Python Version: 3.12.0
+ Python Build Date and Compiler: tags/v3.12.0:0fb18b0 with Oct  2 2023 13:03:39
+ Python Implementation: CPython
+ Active pip environment: None
+ Path to Interpreter:         C:\Users\Andy\AppData\Local\Programs\Python\Python312\python.exe
+ Path to virtual environment: C:\Users\Andy\AppData\Local\Programs\Python\Python312
+ Current Working Directory:   C:\Users\Andy\streaming-02-multiple-processes
+ Path to source directory:    c:\Users\Andy\streaming-02-multiple-processes
+ Path to script file:         c:\Users\Andy\streaming-02-multiple-processes\about.py
+ User's Home Directory:       C:\Users\Andy
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Git available in PATH:       True 
+======================================================================
+======================================================================

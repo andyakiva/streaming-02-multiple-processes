@@ -5,3 +5,40 @@ This will clear the console output.
 Run the file once while the tasks are short. 
 
 Copy and paste the terminal results (when task_duration is 0) here.
+
+PS C:\Users\Andy\streaming-02-multiple-processes> & C:/Users/Andy/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Andy/streaming-02-multiple-processes/multiple_processes.py
+2024-05-12 18:56:48,809 - INFO - 
+======================================================================
+STARTING UP.............................
+  Date and Time:    2024-05-12 at 06:56 PM
+  Operating System: nt Windows 11
+  Python Version:   3.12.0
+  Path to Interpreter:  C:\Users\Andy\AppData\Local\Programs\Python\Python312\python.exe
+======================================================================
+
+2024-05-12 18:56:48,810 - INFO - Called recreate_database().
+2024-05-12 18:56:48,810 - INFO - Called drop_table().
+2024-05-12 18:56:48,817 - INFO - Table 'pets' dropped successfully.
+2024-05-12 18:56:48,818 - INFO - Called create_table().
+2024-05-12 18:56:48,827 - INFO - Table 'pets' created successfully.
+2024-05-12 18:56:49,061 - INFO - Called process_three().
+2024-05-12 18:56:49,061 - INFO -   Called insert_pet() with process=P3, name=Emma, breed=Rabbit.
+2024-05-12 18:56:49,065 - INFO - Called process_two().
+2024-05-12 18:56:49,065 - INFO -   Called insert_pet() with process=P2, name=Cooper, breed=Rabbit.
+2024-05-12 18:56:49,068 - INFO - Called process_one().
+2024-05-12 18:56:49,068 - INFO -   Called insert_pet() with process=P3, name=Felix, breed=Cat.
+2024-05-12 18:56:49,068 - INFO -   Called insert_pet() with process=P1, name=Ace, breed=Dog.
+2024-05-12 18:56:49,088 - INFO -   Called insert_pet() with process=P2, name=Dingo, breed=Dog.
+2024-05-12 18:56:49,102 - INFO -   Called insert_pet() with process=P1, name=Buddy, breed=Dog.
+2024-05-12 18:56:49,125 - INFO - 
+SUCCESS: All processes successfully completed!
+
+Now - increase the task duration (representing
+      the time the task has the database
+      tied up during an insert statement).
+How well do multiple, concurrent processes share a database
+    when each task takes more time?
+How can multiple processes share a resource
+    without interfering with each other?
+
+PS C:\Users\Andy\streaming-02-multiple-processes> 
